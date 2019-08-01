@@ -1,0 +1,25 @@
+{
+  "name": "js-tasks",
+  "version": "1.0.0",
+  "description": "JavaScript tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha */*.test.js"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "tasks",
+    "task",
+    "solutions"
+  ],
+  "author": "FurryCat",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {
+    "jsdom": "^15.1.1"
+  }
+}
